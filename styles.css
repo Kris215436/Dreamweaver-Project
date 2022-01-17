@@ -1,0 +1,130 @@
+@charset "utf-8";
+body {
+	padding: 0;
+	margin: 0;
+}
+
+img {
+	position: absolute;
+}
+
+.first3 {
+  left: 244px;
+  top: 19px;
+	z-index: 100
+}
+
+.second3 {
+	left: 559px;
+ 	top: 20px;
+	z-index: 100
+}
+
+.third3 {
+	left: 863px;
+  	top: 22px;
+	z-index: 100
+}
+
+.fourth3 {
+	left: 1165px;
+  	top: 23px;
+	z-index: 100
+}
+
+.note1 {
+	left: 49px;
+  	top: 471px;
+	z-index: 100
+}
+
+.note2 {
+	left: 378px;
+  	top: 532px;
+	z-index: 100
+}
+
+.note3 {
+	left: 639px;
+  	top: 544px;
+	z-index: 100
+}
+
+.note4 {
+	left: 884px;
+  	top: 588px;
+	z-index: 100
+}
+
+.note5 {
+	left: 1231px;
+  	top: 634px;
+	z-index: 100
+}
+
+.note6 {
+	left: 1430px;
+  	top: 630px;
+	z-index: 100
+}
+
+.secondfirst3 {
+	left: 244px;
+  	top: 19px;
+}
+
+.secondsecond3 {
+	left: 559px;
+  	top: 20px;
+}
+
+.secondthird3 {
+	left: 863px;
+  	top: 22px;
+}
+
+.secondfourth3 {
+  left: 1165px;
+  top: 23px;
+}
+
+.secondnote1 {
+	left: 49px;
+  	top: 471px;
+}
+
+.secondnote2 {
+	left: 378px;
+  	top: 532px;
+}
+
+.secondnote3 {
+	left: 639px;
+  	top: 544px;
+}
+
+.secondnote4 {
+	left: 884px;
+  	top: 588px;
+}
+
+.secondnote5 {
+	left: 1231px;
+  	top: 634px;
+}
+
+.secondnote6 {
+	left: 1430px;
+  	top: 630px;
+}
+
+
+
+
+
+
+
+
+
+
+
